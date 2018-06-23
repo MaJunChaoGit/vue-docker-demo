@@ -88,7 +88,7 @@ export default {
   name: 'HelloWorld',
   data () {
     return {
-      msg: 'test docker'
+      msg: 'tag 1.0.0 test'
     }
   }
 }
